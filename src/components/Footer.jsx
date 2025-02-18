@@ -7,7 +7,7 @@ const Footer = () => {
     <div className="mt-40 flex flex-col gap-5 px-8">
       <div className="flex justify-between items-start flex-col md:flex-row gap-7">
         <div className="flex justify-start items-start">
-          <h1 className="text-[#605DEC] font-bold text-2xl">Trimpa</h1>
+          <h1 className="text-[#605DEC] font-bold text-2xl">Gabibook</h1>
         </div>
         <ul className="flex flex-col items-start justify-start gap-3">
           <h2 className="text-[#6E7491] font-bold text-lg">About</h2>
@@ -52,7 +52,7 @@ const Footer = () => {
           <img src={instagram} alt="twitter"  className="cursor-pointer object-cover w-5 h-5 sm:w-7 sm:h-7" />
           <img src={facebook} alt="twitter"   className="cursor-pointer object-cover w-5 h-5 sm:w-7 sm:h-7"/>
         </div>
-        <p className="text-[#7C8DB0] text-sm sm:text-base">&copy; 2023 Gabibook incorporated</p>
+        <p className="text-[#7C8DB0] text-sm sm:text-base">&copy; 2025 Gabibook incorporated</p>
       </div>
     </div>
     </>

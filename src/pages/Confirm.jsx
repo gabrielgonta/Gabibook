@@ -28,7 +28,7 @@ const Confirm = () => {
           <div className="w-full flex flex-col items-start justify-start gap-4">
              <h1 className="text-[#6E7491] text-xl sm:text-2xl font-bold">Flight summary</h1>
              <div className="w-full flex flex-col items-start gap-2 ">
-             <p className="text-[#7C8DB0] text-base sm:text-lg font-semibold">Departing February 25th, 2023</p>
+             <p className="text-[#7C8DB0] text-base sm:text-lg font-semibold">Departing February 25th, 2025</p>
              <div
               className="w-full cursor-pointer border-[1px] border-[#E9E8FC] hover:bg-[#F6F6FE] transition-all duration-300 focus:bg-[#F6F6FE]"
             >
@@ -46,7 +46,7 @@ const Confirm = () => {
             <p className="text-[#7C8DB0] text-sm sm:text-base font-normal">Seat 9F (economy, window), 1 checked bag</p>
              </div>
              <div className="w-full flex flex-col items-start gap-2 mt-8">
-             <p className="text-[#7C8DB0] text-base sm:text-lg font-semibold">Arriving March 21st, 2023</p>
+             <p className="text-[#7C8DB0] text-base sm:text-lg font-semibold">Arriving March 21st, 2025</p>
              <div
               className="w-full cursor-pointer border-[1px] border-[#E9E8FC] hover:bg-[#F6F6FE] transition-all duration-300 focus:bg-[#F6F6FE]"
             >
