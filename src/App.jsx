@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import "./App.css";
 import { Footer, Navbar } from "./components";
 import {
@@ -16,7 +16,7 @@ import "react-toastify/dist/ReactToastify.css";
 
 const App = () => {
   return (
-    <Router basename="/Gabibook">
+    <>
       <div className="font-Nunito overflow-hidden max-w-[1440px] mx-auto">
         <Navbar />
         <Routes>
@@ -43,7 +43,7 @@ const App = () => {
           theme="dark"
         />
       </div>
-    </Router>
+    </>
   );
 };
 
