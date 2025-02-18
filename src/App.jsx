@@ -20,7 +20,7 @@ const App = () => {
       <div className="font-Nunito overflow-hidden max-w-[1440px] mx-auto">
         <Navbar />
         <Routes>
-          <Route path="/" element={<Flights />} />
+          <Route path="/Gabibook/" element={<Flights />} />
           <Route path="/hotels" element={<Hotels />} />
           <Route path="/packages" element={<Packages />} />
           <Route path="/explore" element={<FlightExplore />} />
