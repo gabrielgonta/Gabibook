@@ -52,7 +52,7 @@ const Footer = () => {
           <img src={instagram} alt="twitter"  className="cursor-pointer object-cover w-5 h-5 sm:w-7 sm:h-7" />
           <img src={facebook} alt="twitter"   className="cursor-pointer object-cover w-5 h-5 sm:w-7 sm:h-7"/>
         </div>
-        <p className="text-[#7C8DB0] text-sm sm:text-base">&copy; 2023 Gabibook incorporated</p>
+        <p className="text-[#7C8DB0] text-sm sm:text-base">&copy; 2025 Gabibook incorporated</p>
       </div>
     </div>
     </>
