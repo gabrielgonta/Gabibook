@@ -1,41 +1,74 @@
-# Gabibook
+# ✈️ Gabibook - Flight Booking UI
 
-<br/>
-This is a Flight Booking UI template built using React and Tailwind CSS. It provides a sleek and user-friendly interface for users to search and book flights. The template is fully responsive and can be easily customized to fit your specific needs.
+## Description
 
-## Features
+Welcome to Gabibook! 🎉
 
-- User-friendly interface for flight search and booking
-- Responsive design, suitable for various devices and screen sizes
-- Easy customization with React components and Tailwind CSS utility classes
-- Well-structured codebase, following best practices and conventions
-- show warning and success messages.
+Gabibook is a sleek and modern Flight Booking UI template built with React and Tailwind CSS. Designed for a seamless user experience, it allows users to search and book flights effortlessly. The template is fully responsive and highly customizable to meet different project requirements.
 
 ## Prerequisites
 
-To use this template, you need to have the following installed on your machine:
+Before running Gabibook, ensure you have the following installed:
 
-- Node.js (version ....)
-- npm (version ....)
+Node.js (Latest stable version recommended)
+npm (Comes with Node.js)
+You can install NodeJs : https://nodejs.org/fr/
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/PrtHub/Tripma.git
-2. Install the dependencies: npm install
-3. To start the development server and view the template in your browser, run the following command: npm run dev
+Clone the repository :
 
-## Customization
+```
+git clone https://github.com/gabrielgonta/Gabibook.git
+```
 
-The Flight Booking UI template is highly customizable. You can modify the existing components or create new ones to suit your requirements. The main files and directories you may need to work with are:
+Navigate to the root directory where the 'package.json' file is located, then run the command to install the dependencies :
 
-- src/App.js: The main entry point of the application.
-- src/components & src/container: Directory containing reusable React components.
-- src/assets: All the icons, images, logos are here
+```
+cd Gabibook
+npm install
+```
 
 ## Deployment
 
-- To build the optimized production-ready version of the template, run the following command: npm run build
-This will create a build directory with the optimized and minified assets. You can then deploy this directory to your hosting platform of choice.
+To start the development server, run :
+
+```
+npm run dev
+```
+
+By default, the application runs on http://localhost:5173/ :
+
+## How I try to stand out
+
+    ✔️ User-friendly interface for flight search and booking.
+    ✔️ Fully responsive design, optimized for all devices.
+    ✔️ Built with React and Tailwind CSS for easy customization.
+    ✔️ Well-structured and clean codebase following best practices.
+    ✔️ Warning and success messages for enhanced user interaction.
+
+## Customization
+
+Gabibook is highly customizable. Modify existing components or create new ones to match your needs. Key directories and files:
+
+src/App.js - Main entry point of the application.
+
+src/components/ - Reusable React components.
+
+src/container/ - Layout and structure components.
+
+src/assets/ - Icons, images, and other assets.
 
 ## Contributing
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the existing coding style and guidelines.
+
+Contributions are welcome! If you find any bugs or have suggestions for improvements:
+
+Open an issue
+
+Submit a pull request
+
+Make sure to follow best coding practices and adhere to the project structure.
+
+## Authors
+
+* **Gabriel Gonta** - *Initial work* - [WeatherApp](https://github.com/gabrielgonta/Gabibook.git)
