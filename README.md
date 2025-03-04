@@ -73,4 +73,4 @@ Make sure to follow best coding practices and adhere to the project structure.
 
 ## Authors
 
-* **Gabriel Gonta** - *Initial work* - [WeatherApp](https://github.com/gabrielgonta/Gabibook.git)
+* **Gabriel Gonta** - *Initial work* - [Gabibook](https://github.com/gabrielgonta/Gabibook.git)
