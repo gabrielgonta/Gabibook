@@ -11,7 +11,9 @@ Gabibook is a sleek and modern Flight Booking UI template built with React and T
 Before running Gabibook, ensure you have the following installed:
 
 Node.js (Latest stable version recommended)
+
 npm (Comes with Node.js)
+
 You can install NodeJs : https://nodejs.org/fr/
 
 ## Installation
